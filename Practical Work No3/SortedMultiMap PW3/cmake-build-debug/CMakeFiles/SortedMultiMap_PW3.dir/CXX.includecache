@@ -1,0 +1,92 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ExtendedTest/ExtendedTest.h
+
+../SMMIterator/SMMIterator.h
+SortedMultiMap.h
+../SMMIterator/SortedMultiMap.h
+
+../ShortTest/ShortTest.h
+
+../SortedMultiMap/SortedMultiMap.h
+vector
+-
+utility
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/App.cpp
+iostream
+-
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ShortTest.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest/ExtendedTest.cpp
+exception
+-
+assert.h
+-
+algorithm
+-
+vector
+-
+iostream
+-
+SMMIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest/SMMIterator.h
+SortedMultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest/SortedMultiMap.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ExtendedTest/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SMMIterator/SMMIterator.cpp
+SMMIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SMMIterator/SMMIterator.h
+SortedMultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SMMIterator/SortedMultiMap.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SMMIterator/SMMIterator.h
+SortedMultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SMMIterator/SortedMultiMap.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ShortTest/ShortTest.cpp
+assert.h
+-
+SortedMultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ShortTest/SortedMultiMap.h
+SMMIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/ShortTest/SMMIterator.h
+exception
+-
+vector
+-
+iostream
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SortedMultiMap/SortedMultiMap.cpp
+SMMIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SortedMultiMap/SMMIterator.h
+SortedMultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SortedMultiMap/SortedMultiMap.h
+iostream
+-
+vector
+-
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/SortedMultiMap/SortedMultiMap.h
+vector
+-
+utility
+-
+

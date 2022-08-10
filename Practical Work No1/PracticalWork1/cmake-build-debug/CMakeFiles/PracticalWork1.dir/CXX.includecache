@@ -1,0 +1,72 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/App.cpp
+SortedBag/SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+SortedBagIterator/SortedBagIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+iostream
+-
+ShortTest/ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ShortTest/ShortTest.h
+ExtendedTest/ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ExtendedTest/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ExtendedTest/ExtendedTest.cpp
+../ShortTest/ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ShortTest/ShortTest.h
+../SortedBag/SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+../SortedBagIterator/SortedBagIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+assert.h
+-
+iostream
+-
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ExtendedTest/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ShortTest/ShortTest.cpp
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ShortTest/ShortTest.h
+../SortedBag/SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+../SortedBagIterator/SortedBagIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+assert.h
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/ShortTest/ShortTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.cpp
+SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+../SortedBagIterator/SortedBagIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+utility
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.cpp
+SortedBagIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+../SortedBag/SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBagIterator/SortedBagIterator.h
+../SortedBag/SortedBag.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No1/PracticalWork1/SortedBag/SortedBag.h
+

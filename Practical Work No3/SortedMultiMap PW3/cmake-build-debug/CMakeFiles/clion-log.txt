@@ -1,0 +1,4 @@
+"D:\CLion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - MinGW Makefiles" "C:\Users\night\Desktop\Facultate An 1\Semestru 2\SDA\Practical Work No3\SortedMultiMap PW3"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No3/SortedMultiMap PW3/cmake-build-debug

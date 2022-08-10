@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ExtendedTest/ExtendedTest.h
+ExtendedTest.h
+../ExtendedTest/ExtendedTest.h
+
+../Matrix/Matrix.h
+tuple
+-
+
+../ShortTest/ShortTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/App.cpp
+iostream
+-
+Matrix.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/Matrix.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest.h
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ShortTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest/ExtendedTest.cpp
+assert.h
+-
+Matrix.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest/Matrix.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest/ExtendedTest.h
+iostream
+-
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest/ExtendedTest.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ExtendedTest/ExtendedTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/Matrix/Matrix.cpp
+Matrix.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/Matrix/Matrix.h
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/Matrix/Matrix.h
+tuple
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ShortTest/ShortTest.cpp
+assert.h
+-
+Matrix.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 5/ADTMatrix PW5/ShortTest/Matrix.h
+

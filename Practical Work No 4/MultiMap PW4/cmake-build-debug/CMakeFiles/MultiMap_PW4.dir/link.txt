@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\MultiMap_PW4.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\MultiMap_PW4.dir/objects.a @CMakeFiles\MultiMap_PW4.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\MultiMap_PW4.dir/objects.a -Wl,--no-whole-archive -o MultiMap_PW4.exe -Wl,--out-implib,libMultiMap_PW4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\MultiMap_PW4.dir\linklibs.rsp

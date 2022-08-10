@@ -1,0 +1,94 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../ExtendedTest/ExtendedTest.h
+
+../MultiMap/MultiMap.h
+vector
+-
+utility
+-
+
+../MultiMapIterator/MultiMapIterator.h
+MultiMap.h
+../MultiMapIterator/MultiMap.h
+
+../ShortTest/ShortTest.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/App.cpp
+iostream
+-
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMap.h
+ExtendedTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ExtendedTest.h
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest.h
+MultiMapIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ExtendedTest/ExtendedTest.cpp
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ExtendedTest/ShortTest.h
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ExtendedTest/MultiMap.h
+MultiMapIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ExtendedTest/MultiMapIterator.h
+assert.h
+-
+iostream
+-
+stdlib.h
+-
+vector
+-
+exception
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMap/MultiMap.cpp
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMap/MultiMap.h
+MultiMapIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMap/MultiMapIterator.h
+exception
+-
+iostream
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMap/MultiMap.h
+vector
+-
+utility
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator/MultiMapIterator.cpp
+MultiMapIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator/MultiMapIterator.h
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator/MultiMap.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator/MultiMapIterator.h
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/MultiMapIterator/MultiMap.h
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest/ShortTest.cpp
+ShortTest.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest/ShortTest.h
+MultiMap.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest/MultiMap.h
+MultiMapIterator.h
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest/MultiMapIterator.h
+assert.h
+-
+vector
+-
+iostream
+-
+
+C:/Users/night/Desktop/Facultate An 1/Semestru 2/SDA/Practical Work No 4/MultiMap PW4/ShortTest/ShortTest.h
+

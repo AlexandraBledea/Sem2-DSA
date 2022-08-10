@@ -1,0 +1,3 @@
+"D:\CLion\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SortedMultiMap_PW3.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\SortedMultiMap_PW3.dir/objects.a @CMakeFiles\SortedMultiMap_PW3.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\SortedMultiMap_PW3.dir/objects.a -Wl,--no-whole-archive -o SortedMultiMap_PW3.exe -Wl,--out-implib,libSortedMultiMap_PW3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SortedMultiMap_PW3.dir\linklibs.rsp
